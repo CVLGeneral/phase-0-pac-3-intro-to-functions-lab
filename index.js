@@ -20,5 +20,3 @@ function sayHiToHeadphonedRoommate(string){
 }
  
 }
-sayHiToHeadphonedRoommate("hello");
-
